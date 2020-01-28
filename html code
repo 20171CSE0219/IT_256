@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>Preserve Formatting Example</title>
+</head>
+<body>
+<pre>
+if(a=0)
+print(gaurav)
+</pre>
+<p align="left"><b>left</b></p>
+<p align="center"><i>center</i></p>
+<p align="right">right</p>
+<p valign="bottom"><strike>right</strike></p>
+<h2 title="gaurav pandey is great">want to know something special<br>
+y<sub>1</sub>=x<sup>2</sup>+y<sup>2</sup>
+<hr>
+<hr>
+inserted text
+<ins> gaurav pandey</ins>
+<br>
+<del> gaurav pandey</del>
+<br><big> gaurav pandey</big>
+
+<br><small> gaurav pandey</small>
+</body>
+</html>
+ 
